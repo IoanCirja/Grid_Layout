@@ -64,6 +64,7 @@ button {
   border-radius: 5px;
   padding: 0px;
   font-size: 16px;
+  margin-top: 10px;
 }
 button:active {
   background-color: hsl(71, 73%, 40%);
@@ -120,7 +121,5 @@ button:active {
 
   button {
     width: 100%;
-    max-width: 300px;
-    margin: 0 auto;
   }
 }
